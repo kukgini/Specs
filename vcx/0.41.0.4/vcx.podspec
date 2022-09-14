@@ -10,7 +10,7 @@ DESC
   spec.author       = { "aries-vcx" => "kukgini@gmail.com" }
   spec.platform     = :ios
   spec.ios.deployment_target = "13.0"
-  spec.source       = { :http => "http://127.0.0.1:8000/libvcx-ios-0.41.0.4-device.zip" }
+  spec.source       = { :http => "https://github.com/kukgini/aries-vcx/suites/8283354452/artifacts/363016738" }
   spec.source_files  = "vcx.framework/Headers/*.h"
   spec.public_header_files = "vcx.framework/Headers/*.h"
   spec.ios.vendored_frameworks="vcx.framework"
